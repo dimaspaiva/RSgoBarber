@@ -1,0 +1,2 @@
+# RSgoBarber
+RocketSeat class implementation
